@@ -20,6 +20,7 @@ VVD Offline/Individual Documentation [https://www.vmware.com/support/pubs/vmware
 * [VVD 4.0 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
 * [VVD 4.0 FAQ](https://communities.vmware.com/docs/DOC-34266)
 * [VVD 4.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-34171)
+* [VVD 4.0 Migration](http://pubs.vmware.com/vmware-validated-design-40/topic/com.vmware.ICbase/PDF/vmware-validated-design-40-sddc-migration.pdf)
 * [VVD 4.0 Poster](https://communities.vmware.com/docs/DOC-34308)
 * [VVD 4.0 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.0 Ports & Protocols](https://communities.vmware.com/docs/DOC-34307)
