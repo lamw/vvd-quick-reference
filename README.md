@@ -4,9 +4,9 @@
 
 VVD Home Page: [http://vmware.com/go/vvd](http://vmware.com/go/vvd)
 
-VVD Online Documentation [http://pubs.vmware.com/vmware-validated-design-40/index.jsp](http://pubs.vmware.com/vmware-validated-design-40/index.jsp)
+VVD Documentation Landing Page[http://pubs.vmware.com/vmware-validated-design-40/index.jsp](http://pubs.vmware.com/vmware-validated-design-40/index.jsp)
 
-VVD Offline/Individual Documentation [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
+VVD Documentation Center [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
 
 **Follow VVD:**
 
