@@ -24,6 +24,7 @@ VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-
 * [VVD 4.0 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.0 Ports & Protocols](https://communities.vmware.com/docs/DOC-34307)
 * [VVD 4.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
+* [VVD for SDDC 4.0 - What's New](https://www.youtube.com/watch?v=U01POpwnzlo)
 
 ## VVD 3.0 Resources
 
