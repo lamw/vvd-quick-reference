@@ -19,6 +19,7 @@ VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-
 * [VVD 4.0 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD401&productId=634&rPId=14674)
 * [VVD 4.0 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
 * [VVD 4.0 FAQ](https://communities.vmware.com/docs/DOC-34266)
+* [VVD 4.0 Sizing Guidelines](vvd40_sizing.md)
 * [VVD 4.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-34171)
 * [VVD 4.0 Poster](https://communities.vmware.com/docs/DOC-34308)
 * [VVD 4.0 CertGen Tool](https://kb.vmware.com/kb/2146215)
