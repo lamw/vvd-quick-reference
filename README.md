@@ -8,6 +8,8 @@ VVD Documentation Landing Page: [http://pubs.vmware.com/vmware-validated-design-
 
 VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
 
+VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
+
 **Follow VVD:**
 
 * YouTube Channel [http://vmware.com/go/vvd-videos](http://vmware.com/go/vvd-video)
