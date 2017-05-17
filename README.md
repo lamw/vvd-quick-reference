@@ -46,7 +46,7 @@ VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 2.0 Poster](https://communities.vmware.com/docs/DOC-32782)
 * [VVD 2.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vvd-sddc-2)
 
-## VMworld Sesisons
+## VMworld Sessions
 
 ### 2017
 
