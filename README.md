@@ -13,7 +13,8 @@ VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 **Follow VVD:**
 
 * YouTube Channel [http://vmware.com/go/vvd-videos](http://vmware.com/go/vvd-video)
-* Blog [https://tenthirtyam.org/](https://tenthirtyam.org/)
+* Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
+* Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
 * Twitter [@VMwareSDDC](https://twitter.com/VMwareSDDC)
 
 ## VVD 4.0 Resources
@@ -55,13 +56,14 @@ VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ### 2016
 * [SDDC8414 - VMware Validated Design for SDDC: A Technical Deep Dive](http://vmware.mediasite.com/mediasite/Play/9c673144384f46fc9ed592699ff844c01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
 * [SDDC8445 - VMware Validated Design for Microsegmentation Deepdive](http://vmware.mediasite.com/mediasite/Play/d54fa6fc960149d2bdbc4157a61d033f1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
-* [SDDC7587r - Software-Defined Networking in VMware Validated Designs](http://vmware.mediasite.com/mediasite/Play/9db907ad9b8c44c8b53884494f69c1631d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
+* [SDDC7587 - Software-Defined Networking in VMware Validated Designs](http://vmware.mediasite.com/mediasite/Play/9db907ad9b8c44c8b53884494f69c1631d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
 * [SDDC8423 - VMware Validated Design for SDDC – Operations Architecture Technical Deepdive](http://vmware.mediasite.com/mediasite/Play/570e198a38984f30bf312bb7fe184dd21d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
 * [SDDC8946 - Deep Dive into Deploying the vRealize Cloud Management Platform the VMware Validated Designs Way!](http://vmware.mediasite.com/mediasite/Play/b19892e4a0724ba0b242a4168eddc74b1d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
 * [SDDC9025 - VVD 101: Build Your Cloud the Right Way, First Time](http://vmware.mediasite.com/mediasite/Play/1e2eea27a5be47f29e2eb1797b3f32c01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
 
 ## Other Resources
 
+* [Certified Partner Architecture Program](http://vmware.com/go/vvd-cpa)
 * [Accenture SDI on VMware Validated Design 4.0 - NFS platform](https://kb.vmware.com/kb/2149825)
 * [Accenture SDI on VMware Validated Design 3.0 – NFS platform](https://kb.vmware.com/kb/2147267)
 * [VelocITy SDI on VMware Validated Design 3.0](https://kb.vmware.com/kb/2148847)
