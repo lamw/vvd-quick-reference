@@ -18,8 +18,8 @@ VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-
 * [VVD 4.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD410&productId=666&rPId=17876)
 * [VVD 4.1 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
 * [VVD 4.x FAQ](https://communities.vmware.com/docs/DOC-34266)
-* [VVD 4.q Poster](https://communities.vmware.com/docs/DOC-34308)
-* [VVD 4.q CertGen Tool](https://kb.vmware.com/kb/2146215)
+* [VVD 4.1 Poster](https://communities.vmware.com/docs/DOC-34308)
+* [VVD 4.1 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.1 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.1 - What's New](https://blogs.vmware.com/cloud-foundation/2017/08/22/vmware-validated-design-sddc-4-1-generally-available/)
 
