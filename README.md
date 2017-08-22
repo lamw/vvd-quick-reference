@@ -4,24 +4,30 @@
 
 VVD Home Page: [http://vmware.com/go/vvd](http://vmware.com/go/vvd)
 
-VVD Documentation Landing Page: [http://pubs.vmware.com/vmware-validated-design-40/index.jsp](http://pubs.vmware.com/vmware-validated-design-40/index.jsp)
+VVD Documentation Landing Page: [http://vmware.com/go/vvd-docs](http://vmware.com/go/vvd-docs)
 
 VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
-
-VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 
 **Follow VVD:**
 
 * YouTube Channel [http://vmware.com/go/vvd-videos](http://vmware.com/go/vvd-video)
 * Blog [https://tenthirtyam.org/](https://tenthirtyam.org/)
-* Twitter [@VMwareSDDC](https://twitter.com/VMwareSDDC)
+
+## VVD 4.1 Resources
+
+* [VVD 4.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD410&productId=666&rPId=17876)
+* [VVD 4.1 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
+* [VVD 4.x FAQ](https://communities.vmware.com/docs/DOC-34266)
+* [VVD 4.q Poster](https://communities.vmware.com/docs/DOC-34308)
+* [VVD 4.q CertGen Tool](https://kb.vmware.com/kb/2146215)
+* [VVD 4.1 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
+* [VVD for SDDC 4.1 - What's New](https://blogs.vmware.com/cloud-foundation/2017/08/22/vmware-validated-design-sddc-4-1-generally-available/)
 
 ## VVD 4.0 Resources
 
 * [VVD 4.0 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD401&productId=634&rPId=14674)
 * [VVD 4.0 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
 * [VVD 4.0 FAQ](https://communities.vmware.com/docs/DOC-34266)
-* [VVD 4.0 Sizing Guidelines](vvd40_sizing.md)
 * [VVD 4.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-34171)
 * [VVD 4.0 Poster](https://communities.vmware.com/docs/DOC-34308)
 * [VVD 4.0 CertGen Tool](https://kb.vmware.com/kb/2146215)
@@ -46,11 +52,11 @@ VVD Sizing Tool: [vmwware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 2.0 Poster](https://communities.vmware.com/docs/DOC-32782)
 * [VVD 2.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vvd-sddc-2)
 
-## VMworld Sessions
+## VMworld Sesisons
 
 ### 2017
 
-* TBD
+* Posted after VMworld 2017
 
 ### 2016
 * [SDDC8414 - VMware Validated Design for SDDC: A Technical Deep Dive](http://vmware.mediasite.com/mediasite/Play/9c673144384f46fc9ed592699ff844c01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
