@@ -22,6 +22,7 @@ VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-
 * [VVD 4.1 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.1 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.1 - What's New](https://blogs.vmware.com/cloud-foundation/2017/08/22/vmware-validated-design-sddc-4-1-generally-available/)
+* [Early Access - VVD for SDDC 4.1 Multiple Availability Zone](https://communities.vmware.com/thread/571221)
 
 ## VVD 4.0 Resources
 
