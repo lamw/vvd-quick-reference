@@ -2,24 +2,24 @@
 
 ![](vvd.png)
 
-VVD Home Page: [http://vmware.com/go/vvd](http://vmware.com/go/vvd)
+Home Page: [http://vmware.com/go/vvd](http://vmware.com/go/vvd)
 
-VVD Documentation Landing Page: [http://vmware.com/go/vvd-docs](http://vmware.com/go/vvd-docs)
+Documentation Landing Page: [http://vmware.com/go/vvd-docs](http://vmware.com/go/vvd-docs)
 
-VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
+Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
+
+Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing) For Partners
 
 **Follow VVD:**
 
 * YouTube Channel [http://vmware.com/go/vvd-videos](http://vmware.com/go/vvd-video)
 * Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
 * Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
-* Twitter [@VMwareSDDC](https://twitter.com/VMwareSDDC)
-* Blog [https://tenthirtyam.org/](https://tenthirtyam.org/)
 
 ## VVD 4.1 Resources
 
 * [VVD 4.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD410&productId=666&rPId=17876)
-* [VVD 4.1 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/40/vmware-validated-design-40-release-notes.html)
+* [VVD 4.1 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/41/vmware-validated-design-41-release-notes.html)
 * [VVD 4.x FAQ](https://communities.vmware.com/docs/DOC-34266)
 * [VVD 4.1 Poster](https://communities.vmware.com/docs/DOC-34308)
 * [VVD 4.1 CertGen Tool](https://kb.vmware.com/kb/2146215)
@@ -60,7 +60,11 @@ VVD Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-
 
 ### 2017
 
-* Posted after VMworld 2017
+* [PBO2686BU - Best Data Center Practices: How VMware Validated Designs Can Simplify Your Life](https://youtu.be/aCNCv7rhjDw)
+* [PBO1721BU - VMware Validated Design for SDDC Architecture Deep Dive](https://youtu.be/3BIwGNQwFIk)
+* [PBO1295BU - VMware Validated Design for Remote/Branch Office Technical Overview](https://youtu.be/S4bu4LKUCFQ)
+* [PBO2631BU - A Base Design for Everyone’s Data Center: The Consolidated VMware Validated Design](https://youtu.be/rejb_FsW_Yg)
+* [PBO1480BU - Moving into Your New Software-Defined Data Center! Migrating and Integrating Workloads](https://youtu.be/oJHoiLdAvNA)
 
 ### 2016
 * [SDDC8414 - VMware Validated Design for SDDC: A Technical Deep Dive](http://vmware.mediasite.com/mediasite/Play/9c673144384f46fc9ed592699ff844c01d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40&authTicket=d99a1776b96b482f9cfd960298c790ec)
