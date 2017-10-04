@@ -20,7 +20,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing) F
 
 * [VVD 4.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD410&productId=666&rPId=17876)
 * [VVD 4.1 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/41/vmware-validated-design-41-release-notes.html)
-* [VVD 4.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-36423)
+* [VVD 4.1 Design Decision Checklist](https://communities.vmware.com/docs/DOC-36423)
 * [VVD 4.1 Poster](https://communities.vmware.com/docs/DOC-34308)
 * [VVD 4.1 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.1 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
