@@ -8,7 +8,7 @@ Documentation Landing Page: [http://vmware.com/go/vvd-docs](http://vmware.com/go
 
 Documentation Center: [https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html](https://www.vmware.com/support/pubs/vmware-validated-design-pubs.html)
 
-Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing) For Partners
+Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 
 **Follow VVD:**
 
