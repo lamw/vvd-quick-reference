@@ -16,6 +16,16 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
 * Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
 
+## VVD 4.3 Resources
+
+* [VVD 4.3 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD430&productId=722&rPId=21526)
+* [VVD 4.3 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/4.3/rn/vmware-validated-design-43-release-notes.html)
+* [VVD 4.3 Design Decision Checklist - Standard](https://communities.vmware.com/docs/DOC-38416)
+* [VVD 4.3 Design Decision Checklist - Consolidated](https://communities.vmware.com/docs/DOC-38408)
+* [VVD 4.3 CertGen Tool](https://kb.vmware.com/kb/2146215)
+* [VVD 4.3 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
+* [VVD for SDDC 4.3 - What's New](https://blogs.vmware.com/cloud-foundation/2018/07/17/introducing-vmware-validated-design-for-software-defined-data-center-4-3/)
+
 ## VVD 4.2 Resources
 
 * [VVD 4.2 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD420&productId=722&rPId=21526)
@@ -24,6 +34,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 4.2 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.2 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.2 - What's New](https://blogs.vmware.com/cloud-foundation/2018/02/13/introducing-vmware-validated-design-software-defined-data-center-4-2/)
+* [VVD for SDDC 4.2 on Dell EMC VxRAIL](http://vmware.com/go/vvd-vxrail)
 
 ## VVD 4.1 Resources
 
