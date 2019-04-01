@@ -118,10 +118,10 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ## Other Resources
 
 * [Certified Partner Architecture Program](http://vmware.com/go/vvd-cpa)
-* [Accenture SDI on VMware Validated Design 4.0 - NFS platform](https://kb.vmware.com/kb/2149825)
-* [Accenture SDI on VMware Validated Design 3.0 – NFS platform](https://kb.vmware.com/kb/2147267)
-* [VelocITy SDI on VMware Validated Design 3.0](https://kb.vmware.com/kb/2148847)
-* [VMware SDDC on IBM Cloud – Advanced V1.0](https://kb.vmware.com/kb/2144169)
+* [IBM Virtualization Reference Architecture (based on VVD)](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture)
+* [Lenovo Reference Architecture: VMware Software Defined Data Center with ThinkSystem Servers](https://lenovopress.com/lp0661-reference-architecture-vmware-software-defined-data-center-thinksystem)
+* [SPJ VVD Standard](https://spjsolutions.com/spj-vvd-standard/)
+* [VMware Validated Design for NetApp HCI: VVD 4.2 Architecture Design](https://www.netapp.com/us/media/nva-1128-design.pdf)
 
 ## Feedback/Questions
 
