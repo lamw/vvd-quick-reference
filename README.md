@@ -119,6 +119,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ## Other Resources
 
 * [Certified Partner Architecture Program](http://vmware.com/go/vvd-cpa)
+* [VMware Compatibility Guide: VVD Certified Partner Architecture](https://www.vmware.com/resources/compatibility/vcl/cpa.php)
 * [IBM Virtualization Reference Architecture (based on VVD)](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture)
 * [Lenovo Reference Architecture: VMware Software Defined Data Center with ThinkSystem Servers](https://lenovopress.com/lp0661-reference-architecture-vmware-software-defined-data-center-thinksystem)
 * [SPJ VVD Standard](https://spjsolutions.com/spj-vvd-standard/)
