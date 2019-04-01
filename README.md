@@ -29,6 +29,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 5.0 on Dell EMC VxRail for Region A Deployment Guide](https://support.emc.com/docu93210_Vmware_Validated_Designs_5.0_on_Dell_EMC_VxRail_for_Region_A_Deployment_Guide.pdf)
 * [VVD 5.0 on Dell EMC VxRail Planning Guide](https://support.emc.com/docu93211_Vmware_Validated_Designs_5.0_on_Dell_EMC_VxRail_Planning_Guide.pdf?language=en_US&language=en_US)
 * [VVD for SDDC 5.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-39216)
+* [VVD for SDDC 5.0.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-39437)
 
 ## VVD 4.3 Resources
 
