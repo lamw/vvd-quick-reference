@@ -1,6 +1,6 @@
 # VMware Validated Design (VVD) Quick Reference
 
-![](vvd.png)
+![VVD Quick Reference Logo](vvd.png)
 
 Home Page: [http://vmware.com/go/vvd](http://vmware.com/go/vvd)
 
@@ -26,8 +26,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 5.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
 * [VVD for SDDC 5.0 - What's New](https://blogs.vmware.com/cloud-foundation/2019/01/22/vmware-validated-design-for-software-defined-data-center-vvd-for-sddc-5-0/)
 * [VVD for SDDC 5.0 - Introducing Cloud Builder](https://blogs.vmware.com/cloud-foundation/2019/01/23/introducing-vmware-cloud-builder-automated-deployment-of-vmware-validated-designs/)
-* [VVD 5.0 on Dell EMC VxRail for Region A Deployment Guide](https://support.emc.com/docu93210_Vmware_Validated_Designs_5.0_on_Dell_EMC_VxRail_for_Region_A_Deployment_Guide.pdf)
-* [VVD 5.0 on Dell EMC VxRail Planning Guide](https://support.emc.com/docu93211_Vmware_Validated_Designs_5.0_on_Dell_EMC_VxRail_Planning_Guide.pdf?language=en_US&language=en_US)
+* [VVD 5.0 on Dell EMC VxRail](http://vmware.com/go/vvd-vxrail)
 * [VVD for SDDC 5.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-39216)
 * [VVD for SDDC 5.0.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-39437)
 
@@ -119,6 +118,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ## Other Resources
 
 * [Certified Partner Architecture Program](http://vmware.com/go/vvd-cpa)
+* [VMware Compatibility Guide: VVD Certified Partner Architecture](https://www.vmware.com/resources/compatibility/vcl/cpa.php)
 * [IBM Virtualization Reference Architecture (based on VVD)](https://www.ibm.com/cloud/garage/architectures/virtualizationArchitecture/reference-architecture)
 * [Lenovo Reference Architecture: VMware Software Defined Data Center with ThinkSystem Servers](https://lenovopress.com/lp0661-reference-architecture-vmware-software-defined-data-center-thinksystem)
 * [SPJ VVD Standard](https://spjsolutions.com/spj-vvd-standard/)
