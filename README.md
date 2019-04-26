@@ -89,11 +89,11 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ## VVD 2.0 Resources
 
 * [VVD 2.0 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD200&productId=589&rPId=11663)
-* [VVD 2.0 Relese Notes](http://pubs.vmware.com/Release_Notes/en/vvd/20/vmware-validated-design-20-release-notes.html)
+* [VVD 2.0 Release Notes](http://pubs.vmware.com/Release_Notes/en/vvd/20/vmware-validated-design-20-release-notes.html)
 * [VVD 2.0 Poster](https://communities.vmware.com/docs/DOC-32782)
 * [VVD 2.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vvd-sddc-2)
 
-## VMworld Sesisons
+## VMworld Sessions
 
 ### 2018
 
@@ -127,5 +127,3 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 ## Feedback/Questions
 
 Leave a comment on the VVD community forum or feel free to reach out to the VVD Product Manager (Forbes Guthrie) on Twitter [@forbesguthrie](https://twitter.com/forbesguthrie).
-
-
