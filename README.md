@@ -26,7 +26,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 5.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
 * [VVD for SDDC 5.0 - What's New](https://blogs.vmware.com/cloud-foundation/2019/01/22/vmware-validated-design-for-software-defined-data-center-vvd-for-sddc-5-0/)
 * [VVD for SDDC 5.0 - Introducing Cloud Builder](https://blogs.vmware.com/cloud-foundation/2019/01/23/introducing-vmware-cloud-builder-automated-deployment-of-vmware-validated-designs/)
-* [VVD 5.0 on Dell EMC VxRail](http://vmware.com/go/vvd-vxrail)
+* [VVD 5.0 on Dell EMC VxRail](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
 * [VVD for SDDC 5.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-39216)
 * [VVD for SDDC 5.0.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-39437)
 
@@ -39,7 +39,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 4.3 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.3 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.3 - What's New](https://blogs.vmware.com/cloud-foundation/2018/07/17/introducing-vmware-validated-design-for-software-defined-data-center-4-3/)
-* [VVD for SDDC 4.3 on Dell EMC VxRail](http://vmware.com/go/vvd-vxrail)
+* [VVD for SDDC 4.3 on Dell EMC VxRail](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
 * [VVD for SDDC 4.3 Visio Diagrams](https://communities.vmware.com/docs/DOC-38597)
 * [VVD for SDDC 4.3 Architecture Reference Poster](https://communities.vmware.com/docs/DOC-38463)
 
@@ -51,7 +51,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 4.2 CertGen Tool](https://kb.vmware.com/kb/2146215)
 * [VVD 4.2 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.2 - What's New](https://blogs.vmware.com/cloud-foundation/2018/02/13/introducing-vmware-validated-design-software-defined-data-center-4-2/)
-* [VVD for SDDC 4.2 on Dell EMC VxRAIL](http://vmware.com/go/vvd-vxrail)
+* [VVD for SDDC 4.2 on Dell EMC VxRAIL](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
 
 ## VVD 4.1 Resources
 
