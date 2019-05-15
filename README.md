@@ -123,6 +123,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [Lenovo Reference Architecture: VMware Software Defined Data Center with ThinkSystem Servers](https://lenovopress.com/lp0661-reference-architecture-vmware-software-defined-data-center-thinksystem)
 * [SPJ VVD Standard](https://spjsolutions.com/spj-vvd-standard/)
 * [VMware Validated Design for NetApp HCI: VVD 4.2 Architecture Design](https://www.netapp.com/us/media/nva-1128-design.pdf)
+* [Visio Stencils for the VMware Validated Designs](https://communities.vmware.com/docs/DOC-38595)
 * [Summarized BOM Versions](bom-versions.md)
 
 ## Feedback/Questions
