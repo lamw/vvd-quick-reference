@@ -16,14 +16,26 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
 * Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
 
+## VVD 5.1 Resources
+
+* [VVD 5.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD510&productId=906)
+* [VVD 5.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.1/rn/vmware-validated-design-51-release-notes.html)
+* [VVD 5.1 Design Decision Checklist - Standard](https://communities.vmware.com/docs/DOC-40197)
+* [VVD 5.1 Design Decision Checklist - Consolidated](https://communities.vmware.com/docs/DOC-40199)
+* [VVD 5.1 CertGen Tool](https://kb.vmware.com/s/article/70678)
+* [VVD 5.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
+* [VVD for SDDC 5.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-40204)
+* [VVD for SDDC 5.1 Architecture Reference Poster](https://communities.vmware.com/docs/DOC-40202)
+
 ## VVD 5.0 Resources
 
-* [VVD 5.0 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD500&productId=845&rPId=30161)
+* [VVD 5.0 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD500&productId=845)
 * [VVD 5.0 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.0/rn/vmware-validated-design-50-release-notes.html)
+* [VVD 5.0.1 Download](https://my.vmware.com/group/vmware/details?productId=845&downloadGroup=VVD501)
 * [VVD 5.0.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.0.1/rn/vmware-validated-design-501-release-notes.html)
 * [VVD 5.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-39215)
 * [VVD 5.0 CertGen Tool](https://kb.vmware.com/kb/2146215)
-* [VVD 5.0 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
+* [VVD 5.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
 * [VVD for SDDC 5.0 - What's New](https://blogs.vmware.com/cloud-foundation/2019/01/22/vmware-validated-design-for-software-defined-data-center-vvd-for-sddc-5-0/)
 * [VVD for SDDC 5.0 - Introducing Cloud Builder](https://blogs.vmware.com/cloud-foundation/2019/01/23/introducing-vmware-cloud-builder-automated-deployment-of-vmware-validated-designs/)
 * [VVD 5.0 on Dell EMC VxRail](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
