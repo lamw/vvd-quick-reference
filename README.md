@@ -24,6 +24,8 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 5.1 Design Decision Checklist - Consolidated](https://communities.vmware.com/docs/DOC-40199)
 * [VVD 5.1 CertGen Tool](https://kb.vmware.com/s/article/70678)
 * [VVD 5.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-5x)
+* [VVD for SDDC 5.1 on Dell EMC VxRail - Cloud Builder Deployment for Region A](https://support.emc.com/docu96059_VMware-Validated-Design-for-SDDC-v5.1-on-VxRail-VMware-Cloud-Builder-Deployment-for-Region-A.pdf)
+* [VVD for SDDC 5.1 on Dell EMC VxRail - NSX-T Workload Domains](https://support.emc.com/docu96042_VMware-NSX-T-Workload-Domains-on-VxRail-VVD-5.1-NSX-T-2.4.1.pdf)
 * [VVD for SDDC 5.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-40204)
 * [VVD for SDDC 5.1 Architecture Reference Poster](https://communities.vmware.com/docs/DOC-40202)
 
