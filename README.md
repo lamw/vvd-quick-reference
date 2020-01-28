@@ -114,6 +114,10 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 
 ## VMworld Sessions
 
+### 2019
+
+* [VMware Validated Design Sessions from VMworld US & Europe](https://videos.vmworld.com/global/2019?prodtopics_filter=5819&poster_filter=US,EUROPE)
+
 ### 2018
 
 * [VMware Validated Design Sessions from VMworld US & Europe](https://videos.vmworld.com/global/2018?prodtopics_filter=5647&poster_filter=US,EUROPE)
