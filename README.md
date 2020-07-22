@@ -16,6 +16,15 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
 * Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
 
+## VVD 6.0 Resources
+
+* [VVD 6.0 Download](https://my.vmware.com/web/vmware/downloads/details?downloadGroup=VVD600&productId=995&rPId=45722)
+* [VVD 6.0 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/6.0/rn/vmware-validated-design-60-release-notes.html)
+* [VVD 6.0.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/6.0.1/rn/vmware-validated-design-601-release-notes.html)
+* [VVD 6.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-6x)
+* [VVD 6.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-41737)
+* [VVD 6.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-41667)
+
 ## VVD 5.1 Resources
 
 * [VVD 5.1 Download](https://my.vmware.com/group/vmware/details?downloadGroup=VVD510&productId=906)
