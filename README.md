@@ -16,6 +16,13 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * Blog [https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/](https://blogs.vmware.com/cloud-foundation/products/vmware-validated-designs/)
 * Blog [https://tenthirtyam.org](https://tenthirtyam.org) by Ryan Johnson
 
+## VVD 6.1 Resources
+
+* [VVD 6.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/6.1/rn/vmware-validated-design-61-release-notes.html)
+* [VVD 6.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-6x)
+* [VVD 6.1 Design Decision Checklist](https://communities.vmware.com/t5/Documents/VMware-Validated-Design-for-SDDC-6-1-Design-Decisions-Checklist/ta-p/2779779)
+* [VVD 6.1 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/6.1.0)
+
 ## VVD 6.0 Resources
 
 * [VVD 6.0 Download](https://my.vmware.com/web/vmware/downloads/details?downloadGroup=VVD600&productId=995&rPId=45722)
@@ -23,7 +30,8 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 6.0.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/6.0.1/rn/vmware-validated-design-601-release-notes.html)
 * [VVD 6.x VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-6x)
 * [VVD 6.0 Design Decision Checklist](https://communities.vmware.com/docs/DOC-41737)
-* [VVD 6.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-41667)
+* [VVD 6.0 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/6.0.0)
+* [VVD 6.0.1 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/6.0.1)
 
 ## VVD 5.1 Resources
 
@@ -31,6 +39,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 5.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.1/rn/vmware-validated-design-51-release-notes.html)
 * [VVD 5.1.1 Download](https://my.vmware.com/web/vmware/details?downloadGroup=VVD511&productId=906)
 * [VVD 5.1.1 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.1.1/rn/vmware-validated-design-511-release-notes.html)
+* [VVD 5.1.2 Release Notes](https://docs.vmware.com/en/VMware-Validated-Design/5.1.2/rn/vmware-validated-design-512-release-notes.html)
 * [VVD 5.1 Design Decision Checklist - Standard](https://communities.vmware.com/docs/DOC-40197)
 * [VVD 5.1 Design Decision Checklist - Consolidated](https://communities.vmware.com/docs/DOC-40199)
 * [VVD 5.1.x CertGen Tool](https://kb.vmware.com/s/article/70678)
@@ -40,7 +49,8 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD for SDDC 5.1.1 on Dell EMC VxRail - Cloud Builder Deployment for Region A](https://support.emc.com/docu96964_VxRail-Appliance-Cloud-Builder-Deployment-Guide-for-VVD-5.1.1-in-Region-A.pdf)
 * [VVD for SDDC 5.1.1 on Dell EMC VxRail - Cloud Builder Deployment for Region B](https://support.emc.com/docu96965_VxRail-Appliance-Cloud-Builder-Deployment-Guide-for-VVD-5.1.1-in-Region-B.pdf)
 * [VVD for SDDC 5.1.1 on Dell EMC VxRail - Upgrade Guide](https://support.emc.com/docu96963_VMware-Validated-Design-for-SDDC-5.1.1-on-VxRail-Upgrade-Guide.pdf)
-* [VVD for SDDC 5.1.x Visio Diagrams](https://communities.vmware.com/docs/DOC-40204)
+* [VVD 5.1 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/5.1.0)
+* [VVD 5.1.1 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/5.1.1)
 * [VVD for SDDC 5.1 Architecture Reference Poster](https://communities.vmware.com/docs/DOC-40202)
 
 ## VVD 5.0 Resources
@@ -55,8 +65,8 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD for SDDC 5.0 - What's New](https://blogs.vmware.com/cloud-foundation/2019/01/22/vmware-validated-design-for-software-defined-data-center-vvd-for-sddc-5-0/)
 * [VVD for SDDC 5.0 - Introducing Cloud Builder](https://blogs.vmware.com/cloud-foundation/2019/01/23/introducing-vmware-cloud-builder-automated-deployment-of-vmware-validated-designs/)
 * [VVD 5.0 on Dell EMC VxRail](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
-* [VVD for SDDC 5.0 Visio Diagrams](https://communities.vmware.com/docs/DOC-39216)
-* [VVD for SDDC 5.0.1 Visio Diagrams](https://communities.vmware.com/docs/DOC-39437)
+* [VVD 5.0 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/5.0.0)
+* [VVD 5.0.1 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/5.0.1)
 
 ## VVD 4.3 Resources
 
@@ -68,7 +78,7 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 * [VVD 4.3 VMTN Community Forum](https://communities.vmware.com/community/vmtn/vvd/vmware-validated-design-for-sddc-4x)
 * [VVD for SDDC 4.3 - What's New](https://blogs.vmware.com/cloud-foundation/2018/07/17/introducing-vmware-validated-design-for-software-defined-data-center-4-3/)
 * [VVD for SDDC 4.3 on Dell EMC VxRail](https://www.dell.com/community/VxRail/VMware-Validated-Designs-on-VxRail-VVD-on-VxRail-Deployment/td-p/7287722)
-* [VVD for SDDC 4.3 Visio Diagrams](https://communities.vmware.com/docs/DOC-38597)
+* [VVD 4.3 Visio Diagrams](https://github.com/rainpole/vvd-diagrams/releases/tag/4.3.0)
 * [VVD for SDDC 4.3 Architecture Reference Poster](https://communities.vmware.com/docs/DOC-38463)
 
 ## VVD 4.2 Resources
@@ -123,13 +133,17 @@ Sizing Tool [http://vmware.com/go/vvd-sizing](http://vmware.com/go/vvd-sizing)
 
 ## VMworld Sessions
 
+### 2020
+
+* [VMware Validated Design Sessions from VMworld](https://www.vmworld.com/en/video-library/search.html?prodtopics_filter=5819&poster_filter=US,EUROPE#text=%22VMware%20Validated%20Design%22&year=2020)
+
 ### 2019
 
-* [VMware Validated Design Sessions from VMworld US & Europe](https://videos.vmworld.com/global/2019?prodtopics_filter=5819&poster_filter=US,EUROPE)
+* [VMware Validated Design Sessions from VMworld US & Europe](https://www.vmworld.com/en/video-library/search.html?prodtopics_filter=5819&poster_filter=US,EUROPE#products=%22VMware%20Validated%20Designs%22&year=2019)
 
 ### 2018
 
-* [VMware Validated Design Sessions from VMworld US & Europe](https://videos.vmworld.com/global/2018?prodtopics_filter=5647&poster_filter=US,EUROPE)
+* [VMware Validated Design Sessions from VMworld US & Europe](https://www.vmworld.com/en/video-library/search.html?prodtopics_filter=5819&poster_filter=US,EUROPE#products=%22Validated%20Designs%22&year=2018)
 
 ### 2017
 
